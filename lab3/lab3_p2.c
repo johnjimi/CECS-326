@@ -14,3 +14,4 @@ void main(int argc, char *argv[]) {
 	}//end if
 	printf("\n Usage: %s text_file\n", *argv); 
 	exit(1);
+}//end main
